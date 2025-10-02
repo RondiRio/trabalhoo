@@ -69,7 +69,7 @@ O projeto requer o módulo `search.py` com as implementações dos algoritmos:
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/recipientes-agua.git
+git clone https://github.com/seu-usuario/recipientes-agua.git](https://github.com/RondiRio/trabalhoo.git)
 cd recipientes-agua
 ```
 
